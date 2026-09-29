@@ -1,0 +1,41 @@
+{
+  "version": 4,
+  "app_name": "compunilla",
+  "maintenance": false,
+  "playlists": [
+    {
+      "id": "world",
+      "name": "TV mundial",
+      "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
+      "kind": "live"
+    },
+    {
+      "id": "movies",
+      "name": "Películas",
+      "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8",
+      "kind": "movie",
+      "language": "English"
+    },
+    {
+      "id": "docs-es",
+      "name": "Documentales en español",
+      "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_documentaries_ar.m3u8",
+      "kind": "movie",
+      "language": "Español"
+    },
+    {
+      "id": "docs-en",
+      "name": "Documentales en inglés",
+      "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_documentaries_en.m3u8",
+      "kind": "movie",
+      "language": "English"
+    },
+    {
+      "id": "news-es",
+      "name": "Noticias en español",
+      "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_news_es.m3u8",
+      "kind": "live",
+      "language": "Español"
+    }
+  ]
+}
