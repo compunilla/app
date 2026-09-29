@@ -1,0 +1,13 @@
+{
+  "version": 6,
+  "app_name": "compunilla",
+  "maintenance": false,
+  "playlists": [
+    {
+      "id": "argentina",
+      "name": "Argentina",
+      "url": "https://ip-tv.app/Argentina",
+      "kind": "live"
+    }
+  ]
+}
