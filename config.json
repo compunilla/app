@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "app_name": "compunilla",
+  "maintenance": false,
+  "xtream": {
+    "enabled": true,
+    "server": "https://tv.m3uts.xyz",
+    "username": "m",
+    "password": "m",
+    "movie_extension": "mp4",
+    "series_extension": "mp4"
+  }
+}
