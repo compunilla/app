@@ -4,7 +4,7 @@
   "maintenance": false,
   "xtream": {
     "enabled": true,
-    "server": "tv.m3uts.xyz",
+    "server": "http://tv.m3uts.xyz",
     "username": "m",
     "password": "m",
     "movie_extension": "mp4",
