@@ -1,0 +1,13 @@
+{
+  "version": 5,
+  "app_name": "compunilla",
+  "maintenance": false,
+  "playlists": [
+    {
+      "id": "iptv-org",
+      "name": "IPTV-org",
+      "url": "https://iptv-org.github.io/iptv/index.m3u",
+      "kind": "live"
+    }
+  ]
+}
