@@ -1,0 +1,19 @@
+{
+  "version": 8,
+  "app_name": "compunilla",
+  "maintenance": false,
+  "playlists": [
+    {
+      "id": "argentina",
+      "name": "Argentina — canales públicos",
+      "url": "https://iptv-org.github.io/iptv/countries/ar.m3u",
+      "kind": "live"
+    },
+    {
+      "id": "espanol",
+      "name": "Países hispanohablantes — canales públicos",
+      "url": "https://iptv-org.github.io/iptv/languages/spa.m3u",
+      "kind": "live"
+    }
+  ]
+}
