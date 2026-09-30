@@ -1,0 +1,13 @@
+{
+  "version": 9,
+  "app_name": "compunilla",
+  "maintenance": false,
+  "playlists": [
+    {
+      "id": "latam",
+      "name": "Latinoamérica",
+      "url": "https://raw.githubusercontent.com/compunilla/app/main/latam.m3u",
+      "kind": "live"
+    }
+  ]
+}
