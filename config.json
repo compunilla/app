@@ -1,7 +1,7 @@
 {
   "version": 9,
   "app_name": "compunilla",
-  "maintenance": false,
+  "maintenance": true,
   "playlists": [
     {
       "id": "latam",
