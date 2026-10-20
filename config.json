@@ -6,7 +6,7 @@
     {
       "id": "latam",
       "name": "Latinoamérica",
-      "url": "https://raw.githubusercontent.com/compunilla/app/main/latam.m3u",
+      "url": "https://raw.githubusercontent.com/compunilla/app/refs/heads/main/latam.m3u",
       "kind": "live"
     }
   ]
